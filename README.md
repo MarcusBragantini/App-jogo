@@ -5,7 +5,7 @@
 > Recursos utilizados em aprendizado na Udemy
 
 
-[Clique aqui] (https://marcusbragantini.github.io/app_mata_mosquito/)
+[Clique aqui] (https://marcusbragantini.github.io/App-jogo/)
 
 
 🛠️## Tecnologias utilizadas
